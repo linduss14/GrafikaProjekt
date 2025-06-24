@@ -1,0 +1,16 @@
+{
+    "explosion_scale": 1.6379562043795624,
+    "cloud_spread_speed_min": 1.6200729927007302,
+    "cloud_spread_speed_max": 2.2996350364963507,
+    "cloud_initial_lift_min": 0.05,
+    "cloud_initial_lift_max": 0.1,
+    "cloud_air_resistance": 0.0001,
+    "cloud_gravity": 0.008,
+    "particle_life_multiplier": 2.0,
+    "sand_speed_min": 1.5485401459854018,
+    "sand_speed_max": 2.496350364963504,
+    "sand_gravity_multiplier": 0.7543065693430656,
+    "sand_life_min": 0.5,
+    "sand_life_max": 1.5,
+    "bomb_visual_scale": 0.4605839416058394
+}
